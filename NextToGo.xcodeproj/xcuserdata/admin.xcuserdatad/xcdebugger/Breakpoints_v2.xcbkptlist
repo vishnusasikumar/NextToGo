@@ -30,101 +30,9 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "80"
-            endingLineNumber = "80"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
             landmarkName = "fetchNext(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "94C06A42-FD8D-44E3-96D2-959A5ABD572D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "getNextRaces()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4BDD1BBD-4990-49EA-A89A-CCB5F0B05A4D"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "getNextRaces()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "4BDD1BBD-4990-49EA-A89A-CCB5F0B05A4D - 8362def01b3c045f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 () async -&gt; () in NextToGo.RacingListViewModel.getNextRaces() async -&gt; ()"
-                  moduleName = "NextToGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40">
-               </Location>
-               <Location
-                  uuid = "4BDD1BBD-4990-49EA-A89A-CCB5F0B05A4D - d8d2067e851f8f77"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) await resume partial function for closure #1 () async -&gt; () in NextToGo.RacingListViewModel.getNextRaces() async -&gt; ()"
-                  moduleName = "NextToGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40">
-               </Location>
-               <Location
-                  uuid = "4BDD1BBD-4990-49EA-A89A-CCB5F0B05A4D - 217e76149d1b485d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(5) suspend resume partial function for closure #1 () async -&gt; () in NextToGo.RacingListViewModel.getNextRaces() async -&gt; ()"
-                  moduleName = "NextToGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CA5DD5AF-E949-4577-B0B4-D6E0CEB4BC7A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
-            landmarkName = "getNextRaces()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -138,8 +46,8 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "71"
-            endingLineNumber = "71"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
             landmarkName = "fetchNext(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -154,8 +62,8 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
             landmarkName = "resetCounts()"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,13 +78,13 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "77"
-            endingLineNumber = "77"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
             landmarkName = "fetchNext(_:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "9BDC234E-4827-4709-99A6-AF4DB6F432BF - db3daf7ad2ab2769"
+                  uuid = "9BDC234E-4827-4709-99A6-AF4DB6F432BF - db3daf7ad2ab293a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -186,11 +94,11 @@
                   urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "61"
-                  endingLineNumber = "61">
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
                </Location>
                <Location
-                  uuid = "9BDC234E-4827-4709-99A6-AF4DB6F432BF - f598704a1dbe3625"
+                  uuid = "9BDC234E-4827-4709-99A6-AF4DB6F432BF - f598704a1dbe3876"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -200,22 +108,8 @@
                   urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "61"
-                  endingLineNumber = "61">
-               </Location>
-               <Location
-                  uuid = "9BDC234E-4827-4709-99A6-AF4DB6F432BF - b6af58d97482636f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for NextToGo.RacingListViewModel.fetchNext(Swift.Array&lt;NextToGo.RaceSummary&gt;) async -&gt; ()"
-                  moduleName = "NextToGo.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/admin/Develop/V%20Corp/NextToGo/NextToGo/Application/ViewModels/RacingListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "61"
-                  endingLineNumber = "61">
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -230,8 +124,8 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "fetchNext(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -246,8 +140,8 @@
             filePath = "NextToGo/Application/ViewModels/RacingListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
             landmarkName = "fetchNext(_:)"
             landmarkType = "7">
          </BreakpointContent>

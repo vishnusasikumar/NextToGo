@@ -42,7 +42,7 @@ struct DataClass: Codable {
 }
 
 // MARK: - RaceSummary
-struct RaceSummary: Equatable, Codable, Identifiable {
+struct RaceSummary: Equatable, Hashable, Codable, Identifiable {
     typealias Identifier = String
     var id: Identifier
     var raceName: String
@@ -74,7 +74,7 @@ struct RaceSummary: Equatable, Codable, Identifiable {
 }
 
 // MARK: - AdvertisedStart
-struct AdvertisedStart: Codable {
+struct AdvertisedStart: Codable, Hashable {
     var seconds: Int
     
     var formattedDate: Date {
@@ -93,7 +93,7 @@ struct AdvertisedStart: Codable {
 }
 
 // MARK: - RaceForm
-struct RaceForm: Codable {
+struct RaceForm: Codable, Hashable {
     var distance: Int
     var distanceType: DistanceType
     var distanceTypeID: String
@@ -120,10 +120,14 @@ struct RaceForm: Codable {
         case silkBaseURL = "silk_base_url"
         case raceCommentAlternative = "race_comment_alternative"
     }
+
+    static func == (lhs: RaceForm, rhs: RaceForm) -> Bool {
+        lhs.distanceTypeID == rhs.distanceTypeID
+    }
 }
 
 // MARK: - DistanceType
-struct DistanceType: Codable {
+struct DistanceType: Codable, Hashable {
     var id, name, shortName: String
     var iconURI: String?
     
@@ -132,9 +136,13 @@ struct DistanceType: Codable {
         case shortName = "short_name"
         case iconURI = "icon_uri"
     }
+    
+    static func == (lhs: DistanceType, rhs: DistanceType) -> Bool {
+        lhs.id == rhs.id
+    }
 }
 
-enum SilkBaseURL: String, Codable {
+enum SilkBaseURL: String, Codable, Hashable {
     case drr38Safykj6SCloudfrontNet = "drr38safykj6s.cloudfront.net"
 }
 

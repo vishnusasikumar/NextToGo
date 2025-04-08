@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@MainActor
 class RacingListViewModel: ObservableObject {
     
     enum ViewState {
@@ -18,7 +17,7 @@ class RacingListViewModel: ObservableObject {
         case refresh
     }
     
-    enum ViewID {
+    enum ViewID: String {
         case mainList
         case filterButton
     }
@@ -34,6 +33,7 @@ class RacingListViewModel: ObservableObject {
         self.getRacesUseCase = getRacesUseCase
     }
     
+    @MainActor
     func getNextRaces() async {
         state = .loading
         Task {
@@ -52,6 +52,7 @@ class RacingListViewModel: ObservableObject {
         }
     }
     
+    @MainActor
     func refresh() async {
         resetCounts()
         await getNextRaces()
