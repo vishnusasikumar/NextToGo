@@ -2,67 +2,25 @@
   "status":200,
   "data":{
     "next_to_go_ids":[
-      "1a3deff6-644f-4ccb-96fa-01df741c7ecc",
-      "30a70a17-23d8-41a8-b2d4-b36e70a13c60",
-      "77fd3b25-5e0c-44af-bb8c-f07e07675997",
-      "a6c21fd5-74a4-46ac-90ff-cd532cf4d211",
-      "aae39bc1-108e-4aa0-96cf-dbf4d7ef78bf"
+      "01330dae-1d25-43f4-889d-360def1c89db",
+      "6da19cf5-46e1-4394-b9f6-ad4da7392d3d",
+      "b081d5eb-847e-445f-893b-327faae1eee2",
+      "bfbcb400-04a6-49be-83ac-934be83955e6",
+      "9d366f57-0a5c-413c-b412-79f3cff7ae93"
     ],
     "race_summaries":{
-      "1a3deff6-644f-4ccb-96fa-01df741c7ecc"{
-          "race_id":"1a3deff6-644f-4ccb-96fa-01df741c7ecc",
-          "race_name":"Rosewood Veterinary Service",
-          "race_number":4,
-          "meeting_id":"94aca5ef-1c86-42b1-953f-159b2166af4d",
-          "meeting_name":"Albion Park",
-          "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
-          "advertised_start":{
-            "seconds":1744019580
-          },
-          "race_form":{
-            "distance":520,
-            "distance_type":{
-              "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
-              "name":"Metres",
-              "short_name":"m"
-            },
-            "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
-            "track_condition":{
-              "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-              "name":"Good",
-              "short_name":"good"
-            },
-            "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-            "weather":{
-              "id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-              "name":"FINE",
-              "short_name":"fine",
-              "icon_uri":"FINE"
-            },
-            "weather_id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-            "race_comment":"SHIAN QUIRKY (7) carved over from wide out and boxed on strongly to finish a nose away in second (30.48) behind Flaming Galah at this track. Top prospect. TITANIUM GUNN (6) dropped out early but hit the line hard, charging into third and beaten 6 lengths win (30.60) at this track in Mix 5. Consistent performer from this draw with a win and four minor placings to his credit. Expecting another good run. TAYLA'S LASS (1) put in a much better performance last start when in the placings at this track behind SHIAN QUIRKY (30.76) in a Mix 5. Has the early speed to land on the pace and can stick on. Can measure up. INDY CHA CHA (2) is in the mix despite finishing out of the placings here last start.",
-            "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Rosewood Veterinary Service\",\"time\":\"2025-04-07T09:53:00Z\",\"class\":\"M5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":4600},\"localised_prizemonies\":{\"AUD\":{\"1st\":2990,\"2nd\":920,\"3rd\":460,\"4th\":230,\"total_value\":4600},\"NZD\":{\"1st\":3289,\"2nd\":1012,\"3rd\":506,\"4th\":253,\"total_value\":5060}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
-            "generated":1,
-            "silk_base_url":"drr38safykj6s.cloudfront.net",
-            "race_comment_alternative":"SHIAN QUIRKY (7) carved over from wide out and boxed on strongly to finish a nose away in second (30.48) behind Flaming Galah at this track. Top prospect. TITANIUM GUNN (6) dropped out early but hit the line hard, charging into third and beaten 6 lengths win (30.60) at this track in Mix 5. Consistent performer from this draw with a win and four minor placings to his credit. Expecting another good run. TAYLA'S LASS (1) put in a much better performance last start when in the placings at this track behind SHIAN QUIRKY (30.76) in a Mix 5. Has the early speed to land on the pace and can stick on. Can measure up. INDY CHA CHA (2) is in the mix despite finishing out of the placings here last start."
-          },
-          "venue_id":"12c496d8-9397-4ba4-ba3c-d34ca3625858",
-          "venue_name":"Albion Park",
-          "venue_state":"QLD",
-          "venue_country":"AUS"
-        }:,
-      "30a70a17-23d8-41a8-b2d4-b36e70a13c60":{
-        "race_id":"30a70a17-23d8-41a8-b2d4-b36e70a13c60",
-        "race_name":"Fast Minardi At Stud Division1",
-        "race_number":4,
-        "meeting_id":"71f26ac8-e5f0-472a-9ef5-c60f6f9d6468",
-        "meeting_name":"Launceston",
-        "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "01330dae-1d25-43f4-889d-360def1c89db":{
+        "race_id":"01330dae-1d25-43f4-889d-360def1c89db",
+        "race_name":"Race 5 - 1500",
+        "race_number":5,
+        "meeting_id":"a0b7b756-c8d5-45bb-8174-c2acc02b5d65",
+        "meeting_name":"Nagoya",
+        "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
         "advertised_start":{
-          "seconds":1744019760
+          "seconds":1744098000
         },
         "race_form":{
-          "distance":515,
+          "distance":1500,
           "distance_type":{
             "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
             "name":"Metres",
@@ -75,36 +33,29 @@
             "short_name":"good"
           },
           "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-          "weather":{
-            "id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
-            "name":"Overcast",
-            "short_name":"overcast",
-            "icon_uri":"Overcast"
-          },
-          "weather_id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
-          "race_comment":"REINVIGORATED (7) is a capable type and proved too classy last time to win by 1.75 lengths at Hobart in a handy 26.16 beating Wynburn Primus. Will go close again if runs up to latest. STRANGER DANGER (1) has been mixing form lately, hitting the frame two back before finishing fourth (19.98) at Hobart in a Grade 5. This looks easier and expected to improve sharply. HESTER RHODE (8) is another with top-three prospects.",
-          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Launceston\",\"state\":\"TAS\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Fast Minardi At Stud Division1\",\"time\":\"2025-04-07T09:56:00Z\",\"class\":\"R/W\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":4265},\"localised_prizemonies\":{\"AUD\":{\"1st\":2890,\"2nd\":835,\"3rd\":405,\"4th\":135,\"total_value\":4265},\"NZD\":{\"1st\":3179,\"2nd\":919,\"3rd\":446,\"4th\":148,\"total_value\":4692}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+          "race_comment":"KINKON TAILOR (4) finished tenth two runs back then did well last start but found one better over 920m at this track, beaten only 1.5 lengths. Going up a level this time but she is up to the challenge. JAISALMER (10) is a nine-start maiden who filled a minor placing at Kochi at the last run before spelling. First try at this longer trip. Good chance to open this campaign on a winning note. ASTORE TIARA (2) made progress last time out, finishing 6 lengths from the winner in third at the end of 1500m at this track. Finds a tougher race but this looks well within her grasp. NAMURA BRIDGET (11) produced a better run last start, beaten 6 lengths into fourth over 1500m at this track. Best efforts measure up so worth another chance.",
+          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Nagoya\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":5,\"race_name\":\"Race 5 - 1500\",\"time\":\"2025-04-08T07:40:00Z\",\"class\":\"C1\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":10591},\"localised_prizemonies\":{\"AUD\":{\"1st\":5878,\"2nd\":2063,\"3rd\":1176,\"4th\":887,\"5th\":588,\"total_value\":10591},\"NZD\":{\"1st\":6466,\"2nd\":2269,\"3rd\":1294,\"4th\":976,\"5th\":647,\"total_value\":11650}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
           "generated":1,
           "silk_base_url":"drr38safykj6s.cloudfront.net",
-          "race_comment_alternative":"REINVIGORATED (7) is a capable type and proved too classy last time to win by 1.75 lengths at Hobart in a handy 26.16 beating Wynburn Primus. Will go close again if runs up to latest. STRANGER DANGER (1) has been mixing form lately, hitting the frame two back before finishing fourth (19.98) at Hobart in a Grade 5. This looks easier and expected to improve sharply. HESTER RHODE (8) is another with top-three prospects."
+          "race_comment_alternative":"KINKON TAILOR (4) finished tenth two runs back then did well last start but found one better over 920m at this track, beaten only 1.5 lengths. Going up a level this time but she is up to the challenge. JAISALMER (10) is a nine-start maiden who filled a minor placing at Kochi at the last run before spelling. First try at this longer trip. Good chance to open this campaign on a winning note. ASTORE TIARA (2) made progress last time out, finishing 6 lengths from the winner in third at the end of 1500m at this track. Finds a tougher race but this looks well within her grasp. NAMURA BRIDGET (11) produced a better run last start, beaten 6 lengths into fourth over 1500m at this track. Best efforts measure up so worth another chance."
         },
-        "venue_id":"0eb684d3-8701-4458-b88e-a6b6a15582cb",
-        "venue_name":"Launceston",
-        "venue_state":"TAS",
-        "venue_country":"AUS"
+        "venue_id":"0218fe84-9144-4c28-81ca-9b8647007d56",
+        "venue_name":"Nagoya",
+        "venue_state":"JPN",
+        "venue_country":"JPN"
       },
-      "77fd3b25-5e0c-44af-bb8c-f07e07675997":{
-        "race_id":"77fd3b25-5e0c-44af-bb8c-f07e07675997",
-        "race_name":"Easts Leisure And Golf Club",
-        "race_number":4,
-        "meeting_id":"485b7435-8d20-4c46-93c5-c6f57b9d713b",
-        "meeting_name":"Maitland",
+      "6da19cf5-46e1-4394-b9f6-ad4da7392d3d":{
+        "race_id":"6da19cf5-46e1-4394-b9f6-ad4da7392d3d",
+        "race_name":"Rosewood Veterinary Service",
+        "race_number":6,
+        "meeting_id":"70c8b011-630d-440f-8caf-65784c5b5e69",
+        "meeting_name":"Q1 Lakeside",
         "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
         "advertised_start":{
-          "seconds":1744019940
+          "seconds":1744098000
         },
         "race_form":{
-          "distance":400,
+          "distance":457,
           "distance_type":{
             "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
             "name":"Metres",
@@ -124,71 +75,71 @@
             "icon_uri":"FINE"
           },
           "weather_id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-          "race_comment":"CALYPSO ROGUE (2) boasts a strong record this journey with eight wins and seven minors from 19 tries. Placed last time (22.46) at this track in a Grade 4/5, finishing second and beaten 1.5 lengths. Appeals as a leading chance in this. PREMIER MAC (1) drew the inside and won last time at The Gardens and distance (22.93) after being shuffled back early, scoring by a nose. Can measure up again. OUR CHINA RED (3) made light work of the tricky draw with a strong early sectional but swamped late when a close up fifth (23.03) at this track over 400m. One of the main contenders. DESPICABLE GOAT (4) has a solid strike rate at this track and distance.",
-          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Maitland\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Easts Leisure And Golf Club\",\"time\":\"2025-04-07T09:59:00Z\",\"class\":\"4th/5th Grade\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2490},\"localised_prizemonies\":{\"AUD\":{\"1st\":1575,\"2nd\":475,\"3rd\":365,\"4th\":75,\"total_value\":2490},\"NZD\":{\"1st\":1733,\"2nd\":522,\"3rd\":402,\"4th\":82,\"total_value\":2739}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+          "race_comment":"SHADOW CATCHER (4) is a consistent type who is new to this track. Comes into this after an impressive win last time scoring by 7 lengths at Ipswich (30.74). Form reads well for this. EXTREME MALT (7) finished third (30.68) two back at Albion Park but out of the placings last time when 7th there. Some good form is emerging from his last run. Should be in this for a long way. ASTON BRADLEY (1) looks close to another win after finishing third last time (25.80) in a Grade 6 at Ipswich. Must be included in calculations. BLACKPOOL KOLA (8) cannot be dismissed although new to this venue.",
+          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Q1 Lakeside\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"Rosewood Veterinary Service\",\"time\":\"2025-04-08T07:40:00Z\",\"class\":\"6th Grade\",\"start_type\":\"\",\"prizemonies\":{\"1st\":2990,\"2nd\":920,\"3rd\":460,\"4th\":230,\"total_value\":4600},\"localised_prizemonies\":{\"AUD\":{\"1st\":2990,\"2nd\":920,\"3rd\":460,\"4th\":230,\"total_value\":4600},\"NZD\":{\"1st\":3289,\"2nd\":1012,\"3rd\":506,\"4th\":253,\"total_value\":5060}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
           "generated":1,
           "silk_base_url":"drr38safykj6s.cloudfront.net",
-          "race_comment_alternative":"CALYPSO ROGUE (2) boasts a strong record this journey with eight wins and seven minors from 19 tries. Placed last time (22.46) at this track in a Grade 4/5, finishing second and beaten 1.5 lengths. Appeals as a leading chance in this. PREMIER MAC (1) drew the inside and won last time at The Gardens and distance (22.93) after being shuffled back early, scoring by a nose. Can measure up again. OUR CHINA RED (3) made light work of the tricky draw with a strong early sectional but swamped late when a close up fifth (23.03) at this track over 400m. One of the main contenders. DESPICABLE GOAT (4) has a solid strike rate at this track and distance."
+          "race_comment_alternative":"SHADOW CATCHER (4) is a consistent type who is new to this track. Comes into this after an impressive win last time scoring by 7 lengths at Ipswich (30.74). Form reads well for this. EXTREME MALT (7) finished third (30.68) two back at Albion Park but out of the placings last time when 7th there. Some good form is emerging from his last run. Should be in this for a long way. ASTON BRADLEY (1) looks close to another win after finishing third last time (25.80) in a Grade 6 at Ipswich. Must be included in calculations. BLACKPOOL KOLA (8) cannot be dismissed although new to this venue."
         },
-        "venue_id":"e497b065-561a-443b-ab8c-b4b9c16c4f56",
-        "venue_name":"Maitland",
+        "venue_id":"f8c5f4c6-bed7-41a8-81cb-1f8682182b66",
+        "venue_name":"Q1 Lakeside",
+        "venue_state":"QLD",
+        "venue_country":"AUS"
+      },
+      "9d366f57-0a5c-413c-b412-79f3cff7ae93":{
+        "race_id":"9d366f57-0a5c-413c-b412-79f3cff7ae93",
+        "race_name":"Ladbrokes Mates Mode Pots",
+        "race_number":10,
+        "meeting_id":"dc14a34b-bfca-4d73-8a45-2350299de82e",
+        "meeting_name":"Casino",
+        "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start":{
+          "seconds":1744098180
+        },
+        "race_form":{
+          "distance":300,
+          "distance_type":{
+            "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name":"Metres",
+            "short_name":"m"
+          },
+          "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition":{
+            "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name":"Good",
+            "short_name":"good"
+          },
+          "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather":{
+            "id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name":"FINE",
+            "short_name":"fine",
+            "icon_uri":"FINE"
+          },
+          "weather_id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment":"CHIEF RUPEE (6) comes into this as a quickest on the card winner last time at this track, scoring by 2.5 lengths (16.75). Expected to go close again. SPARKLIN' CHIC (8) goes very well this course and distance starting nine times for three wins and three minors. Comes off a (16.94) win last time, scoring by 5 lengths in a Grade 5 over 300m at this track. Looks well placed here and among the chances. NOT SORRY (2) produced a modest effort most recently when sixth at this track over 300m behind Pot Of Tea (17.76) in a Grade 4/5. Scored at his previous run. Must be included in calculations. SECRET NINJA (3) scored last time and can measure up again.",
+          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Casino\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":10,\"race_name\":\"Ladbrokes Mates Mode Pots\",\"time\":\"2025-04-08T07:43:00Z\",\"class\":\"5th Grade\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2310},\"localised_prizemonies\":{\"AUD\":{\"1st\":1475,\"2nd\":435,\"3rd\":325,\"4th\":75,\"total_value\":2310},\"NZD\":{\"1st\":1623,\"2nd\":479,\"3rd\":358,\"4th\":82,\"total_value\":2541}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+          "generated":1,
+          "silk_base_url":"drr38safykj6s.cloudfront.net",
+          "race_comment_alternative":"CHIEF RUPEE (6) comes into this as a quickest on the card winner last time at this track, scoring by 2.5 lengths (16.75). Expected to go close again. SPARKLIN' CHIC (8) goes very well this course and distance starting nine times for three wins and three minors. Comes off a (16.94) win last time, scoring by 5 lengths in a Grade 5 over 300m at this track. Looks well placed here and among the chances. NOT SORRY (2) produced a modest effort most recently when sixth at this track over 300m behind Pot Of Tea (17.76) in a Grade 4/5. Scored at his previous run. Must be included in calculations. SECRET NINJA (3) scored last time and can measure up again."
+        },
+        "venue_id":"74c1fa80-012f-4da7-b9ec-0d84fe90926e",
+        "venue_name":"Casino",
         "venue_state":"NSW",
         "venue_country":"AUS"
       },
-      "a6c21fd5-74a4-46ac-90ff-cd532cf4d211":{
-        "race_id":"a6c21fd5-74a4-46ac-90ff-cd532cf4d211",
-        "race_name":"Jacq. De Vienne Cross Country Chase",
-        "race_number":1,
-        "meeting_id":"14c88b47-2944-41f5-88bf-e2446d7199ab",
-        "meeting_name":"Compiegne",
+      "b081d5eb-847e-445f-893b-327faae1eee2":{
+        "race_id":"b081d5eb-847e-445f-893b-327faae1eee2",
+        "race_name":"Race 12 - 1230",
+        "race_number":12,
+        "meeting_id":"99ae8ea9-ddb8-4e95-87cb-c78464cec751",
+        "meeting_name":"Sonoda",
         "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
         "advertised_start":{
-          "seconds":1744020000
+          "seconds":1744098000
         },
         "race_form":{
-          "distance":4700,
-          "distance_type":{
-            "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
-            "name":"Metres",
-            "short_name":"m"
-          },
-          "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
-          "track_condition":{
-            "id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
-            "name":"Soft",
-            "short_name":"soft"
-          },
-          "track_condition_id":"906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
-          "weather":{
-            "id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-            "name":"FINE",
-            "short_name":"fine",
-            "icon_uri":"FINE"
-          },
-          "weather_id":"08e5f78c-1a36-11eb-9269-cef03e67f1a3",
-          "race_comment":"GRANDGADOR (2) registered a 4L victory over 4500m at Nancy. Selected to record his fifth win in seven starts at this track. MARE SOL (7) put a fall behind her when 7.5L third in a 4500m event at Lyon-Parilly. Bold show expected. BELABRA (9) enters calculations on the back of a 7L success in that Lyon-Parilly race. DONNE LE CHANGE (4) failed to finish a 4700m event at this venue in October. Rates highly making seasonal reappearance.",
-          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Compiegne\",\"state\":\"FR\",\"country\":\"FR\",\"number\":1,\"race_name\":\"Jacq. De Vienne Cross Country Chase\",\"time\":\"2025-04-07T10:00:00Z\",\"class\":\"P2P CL3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":44905},\"localised_prizemonies\":{\"AUD\":{\"1st\":21554,\"2nd\":10777,\"3rd\":6287,\"4th\":4266,\"5th\":2021,\"total_value\":44905},\"NZD\":{\"1st\":23709,\"2nd\":11855,\"3rd\":6916,\"4th\":4693,\"5th\":2223,\"total_value\":49396}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
-          "generated":1,
-          "silk_base_url":"drr38safykj6s.cloudfront.net",
-          "race_comment_alternative":"GRANDGADOR (2) registered a 4L victory over 4500m at Nancy. Selected to record his fifth win in seven starts at this track. MARE SOL (7) put a fall behind her when 7.5L third in a 4500m event at Lyon-Parilly. Bold show expected. BELABRA (9) enters calculations on the back of a 7L success in that Lyon-Parilly race. DONNE LE CHANGE (4) failed to finish a 4700m event at this venue in October. Rates highly making seasonal reappearance."
-        },
-        "venue_id":"0d27e341-931b-419b-b7cc-6f7727a089fb",
-        "venue_name":"Compiegne",
-        "venue_state":"FR",
-        "venue_country":"FR"
-      },
-      "aae39bc1-108e-4aa0-96cf-dbf4d7ef78bf":{
-        "race_id":"aae39bc1-108e-4aa0-96cf-dbf4d7ef78bf",
-        "race_name":"Romford Monday 7Th April 2025 Pgr Meeting",
-        "race_number":1,
-        "meeting_id":"c9a13275-7571-4723-93cb-66189b48a3ed",
-        "meeting_name":"Romford Bags",
-        "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
-        "advertised_start":{
-          "seconds":1744020060
-        },
-        "race_form":{
-          "distance":400,
+          "distance":1230,
           "distance_type":{
             "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
             "name":"Metres",
@@ -201,16 +152,58 @@
             "short_name":"good"
           },
           "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
-          "race_comment":"BOBDATORTOISE (3) has gone well at his last couple of runs here, most recently when second beaten 5 lengths (24.61). Well placed and gets his chance. LACKEN FIZZ (6) struggled to get involved last start after drifting back at this track, but prior to that won by 1.5 lengths at this track (24.46) beating Fabulous Magique in an A6 on March 22. Warrants plenty of respect. DINNER CHARLIE (4) was safely held last time out, finishing sixth at this track over 400m behind Petroma Cayson (25.28) in an A4. Can figure in the finish. FRAINEY BORDEAUX (5) stalked the lead after a clean break from trap 4 and went on to finish second (24.58) at this track in an A4 over 400m. Expected to feature in the finish again.",
-          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Romford Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":1,\"race_name\":\"Romford Monday 7Th April 2025 Pgr Meeting\",\"time\":\"2025-04-07T10:01:00Z\",\"class\":\"A5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":909},\"localised_prizemonies\":{\"AUD\":{\"1st\":289,\"2nd\":124,\"3rd\":124,\"4th\":124,\"5th\":124,\"6th\":124,\"total_value\":909},\"NZD\":{\"1st\":318,\"2nd\":136,\"3rd\":136,\"4th\":136,\"5th\":136,\"6th\":136,\"total_value\":1000}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+          "race_comment":"RIKEA VERT (11) went forward and proved too strong last time out, scoring by 6 lengths over 1230m at this track. Very smart and has the gate speed to cross from out wide. A leading player again. A SHIN HOYUPU (4) has been in good form, scoring three back at Himeji then placing twice in a row, most recently finishing second over 1230m at this track. Going up a level this time but she has the ability to mix it with them. SAIKODANE (12) finished out of the money when ninth in an 820m contest at this track three weeks ago. Likely improver with strong prospects. DIANA ZELOS (8) missed the frame last start over 1230m at this track, finishing sixth. Can contest for a place.",
+          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Sonoda\",\"state\":\"JPN\",\"country\":\"JPN\",\"number\":12,\"race_name\":\"Race 12 - 1230\",\"time\":\"2025-04-08T07:40:00Z\",\"class\":\"C1\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":22336},\"localised_prizemonies\":{\"AUD\":{\"1st\":11756,\"2nd\":4702,\"3rd\":2939,\"4th\":1763,\"5th\":1176,\"total_value\":22336},\"NZD\":{\"1st\":12932,\"2nd\":5172,\"3rd\":3233,\"4th\":1939,\"5th\":1294,\"total_value\":24570}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
           "generated":1,
           "silk_base_url":"drr38safykj6s.cloudfront.net",
-          "race_comment_alternative":"BOBDATORTOISE (3) has gone well at his last couple of runs here, most recently when second beaten 5 lengths (24.61). Well placed and gets his chance. LACKEN FIZZ (6) struggled to get involved last start after drifting back at this track, but prior to that won by 1.5 lengths at this track (24.46) beating Fabulous Magique in an A6 on March 22. Warrants plenty of respect. DINNER CHARLIE (4) was safely held last time out, finishing sixth at this track over 400m behind Petroma Cayson (25.28) in an A4. Can figure in the finish. FRAINEY BORDEAUX (5) stalked the lead after a clean break from trap 4 and went on to finish second (24.58) at this track in an A4 over 400m. Expected to feature in the finish again."
+          "race_comment_alternative":"RIKEA VERT (11) went forward and proved too strong last time out, scoring by 6 lengths over 1230m at this track. Very smart and has the gate speed to cross from out wide. A leading player again. A SHIN HOYUPU (4) has been in good form, scoring three back at Himeji then placing twice in a row, most recently finishing second over 1230m at this track. Going up a level this time but she has the ability to mix it with them. SAIKODANE (12) finished out of the money when ninth in an 820m contest at this track three weeks ago. Likely improver with strong prospects. DIANA ZELOS (8) missed the frame last start over 1230m at this track, finishing sixth. Can contest for a place."
         },
-        "venue_id":"559f865c-f6e5-47e0-8881-fe6c92f4a508",
-        "venue_name":"Romford Bags",
-        "venue_state":"UK",
-        "venue_country":"UK"
+        "venue_id":"6916e1a3-1754-41cd-91a4-484f336aec64",
+        "venue_name":"Sonoda",
+        "venue_state":"JPN",
+        "venue_country":"JPN"
+      },
+      "bfbcb400-04a6-49be-83ac-934be83955e6":{
+        "race_id":"bfbcb400-04a6-49be-83ac-934be83955e6",
+        "race_name":"The Tab App Pace",
+        "race_number":1,
+        "meeting_id":"d0acc48a-45ff-463e-9064-e4563e2d0b68",
+        "meeting_name":"Temora",
+        "category_id":"161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start":{
+          "seconds":1744098120
+        },
+        "race_form":{
+          "distance":1635,
+          "distance_type":{
+            "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name":"Metres",
+            "short_name":"m"
+          },
+          "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition":{
+            "id":"1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name":"Fast",
+            "short_name":"fast"
+          },
+          "track_condition_id":"1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather":{
+            "id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name":"Fine",
+            "short_name":"fine",
+            "icon_uri":"Fine"
+          },
+          "weather_id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment":"LACHIES DELIGHT (3) made the most of the inside draw to lead and win at Wagga last start, getting home by 6.5m. Should be able to push forward again from another nice draw. Major player again. VILLAGE AREA (1) was in the money at Junee starts runs ago then took no competitive part after bombing the start last time. Should enjoy an economical run from this draw. Contender with manners. YANKEE BABE (10) should be at her peak for this. Finished third at Wagga at the latest appearance a week-and-a-half ago. Can give the top fancies plenty to think about. THE IRISHMAN NZ (9) hasn't featured at his last couple but kicked off the campaign with back-to-back placings so can do better.",
+          "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Temora\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"The Tab App Pace\",\"time\":\"2025-04-08T07:42:00Z\",\"class\":\"NR 46 to 48\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":6936},\"localised_prizemonies\":{\"AUD\":{\"10th\":136,\"1st\":3672,\"2nd\":1156,\"3rd\":748,\"4th\":408,\"5th\":272,\"6th\":136,\"7th\":136,\"8th\":136,\"9th\":136,\"total_value\":6936},\"NZD\":{\"10th\":150,\"1st\":4039,\"2nd\":1272,\"3rd\":823,\"4th\":449,\"5th\":299,\"6th\":150,\"7th\":150,\"8th\":150,\"9th\":150,\"total_value\":7630}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"P\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+          "generated":1,
+          "silk_base_url":"drr38safykj6s.cloudfront.net",
+          "race_comment_alternative":"LACHIES DELIGHT (3) made the most of the inside draw to lead and win at Wagga last start, getting home by 6.5m. Should be able to push forward again from another nice draw. Major player again. VILLAGE AREA (1) was in the money at Junee starts runs ago then took no competitive part after bombing the start last time. Should enjoy an economical run from this draw. Contender with manners. YANKEE BABE (10) should be at her peak for this. Finished third at Wagga at the latest appearance a week-and-a-half ago. Can give the top fancies plenty to think about. THE IRISHMAN NZ (9) hasn't featured at his last couple but kicked off the campaign with back-to-back placings so can do better."
+        },
+        "venue_id":"6772b797-663d-42ba-a7fd-372468d6c324",
+        "venue_name":"Temora",
+        "venue_state":"NSW",
+        "venue_country":"AUS"
       }
     }
   },

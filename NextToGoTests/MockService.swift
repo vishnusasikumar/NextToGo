@@ -6,6 +6,7 @@
 //
 
 import Foundation
+@testable import NextToGo
 
 class MockService: NetworkServiceProtocol {
     private let responseCode: Int
