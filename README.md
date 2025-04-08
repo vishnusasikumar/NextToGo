@@ -50,19 +50,19 @@ This project uses SwiftTest for unit testing. You can run the tests through Xcod
 
 ## Folder Structure
 The folder structure of the project is organized as follows:
-    ```bash
+    
     NextToGoApp/
-├── NextToGoApp.swift          # App entry point
-├── ContentView.swift          # Main content view with all Dependencies
-├── Data/                      # Data models and model-related code
-├── Views/                     # UI components
-├── ViewModels/                # ViewModel layer (MVVM)
-├── Domain/                    # Use Cases, Repositories and main Entity
-├── Utilities/                 # Helper classes, extensions, etc.
-├── Tests/                     # Unit and UI tests
-│   ├── DataTests/             # Unit tests for Repository layer
-│   └── DomainTests/           # Unit tests for UseCase layer
-└── NextToGo.xcodeproj         # Xcode project file
+    ├── NextToGoApp.swift          # App entry point
+    ├── ContentView.swift          # Main content view with all Dependencies
+    ├── Data/                      # Data models and model-related code
+    ├── Views/                     # UI components
+    ├── ViewModels/                # ViewModel layer (MVVM)
+    ├── Domain/                    # Use Cases, Repositories and main Entity
+    ├── Utilities/                 # Helper classes, extensions, etc.
+    ├── Tests/                     # Unit and UI tests
+    │   ├── DataTests/             # Unit tests for Repository layer
+    │   └── DomainTests/           # Unit tests for UseCase layer
+    └── NextToGo.xcodeproj         # Xcode project file
 
 
 ## Acknowledgements
