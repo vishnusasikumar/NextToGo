@@ -1,0 +1,42 @@
+{
+  "race_id": "1a3deff6-644f-4ccb-96fa-01df741c7ecc",
+  "race_name": "Rosewood Veterinary Service",
+  "race_number": 4,
+  "meeting_id": "94aca5ef-1c86-42b1-953f-159b2166af4d",
+  "meeting_name": "Albion Park",
+  "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+  "advertised_start": {
+    "seconds": 1744019580
+  },
+  "race_form": {
+    "distance": 520,
+    "distance_type": {
+      "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+      "name": "Metres",
+      "short_name": "m"
+    },
+    "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+    "track_condition": {
+      "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+      "name": "Good",
+      "short_name": "good"
+    },
+    "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+    "weather": {
+      "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+      "name": "FINE",
+      "short_name": "fine",
+      "icon_uri": "FINE"
+    },
+    "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+    "race_comment": "SHIAN QUIRKY (7) carved over from wide out and boxed on strongly to finish a nose away in second (30.48) behind Flaming Galah at this track. Top prospect. TITANIUM GUNN (6) dropped out early but hit the line hard, charging into third and beaten 6 lengths win (30.60) at this track in Mix 5. Consistent performer from this draw with a win and four minor placings to his credit. Expecting another good run. TAYLA'S LASS (1) put in a much better performance last start when in the placings at this track behind SHIAN QUIRKY (30.76) in a Mix 5. Has the early speed to land on the pace and can stick on. Can measure up. INDY CHA CHA (2) is in the mix despite finishing out of the placings here last start.",
+    "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":4,\"race_name\":\"Rosewood Veterinary Service\",\"time\":\"2025-04-07T09:53:00Z\",\"class\":\"M5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":4600},\"localised_prizemonies\":{\"AUD\":{\"1st\":2990,\"2nd\":920,\"3rd\":460,\"4th\":230,\"total_value\":4600},\"NZD\":{\"1st\":3289,\"2nd\":1012,\"3rd\":506,\"4th\":253,\"total_value\":5060}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+    "generated": 1,
+    "silk_base_url": "drr38safykj6s.cloudfront.net",
+    "race_comment_alternative": "SHIAN QUIRKY (7) carved over from wide out and boxed on strongly to finish a nose away in second (30.48) behind Flaming Galah at this track. Top prospect. TITANIUM GUNN (6) dropped out early but hit the line hard, charging into third and beaten 6 lengths win (30.60) at this track in Mix 5. Consistent performer from this draw with a win and four minor placings to his credit. Expecting another good run. TAYLA'S LASS (1) put in a much better performance last start when in the placings at this track behind SHIAN QUIRKY (30.76) in a Mix 5. Has the early speed to land on the pace and can stick on. Can measure up. INDY CHA CHA (2) is in the mix despite finishing out of the placings here last start."
+  },
+  "venue_id": "12c496d8-9397-4ba4-ba3c-d34ca3625858",
+  "venue_name": "Albion Park",
+  "venue_state": "QLD",
+  "venue_country": "AUS"
+}
